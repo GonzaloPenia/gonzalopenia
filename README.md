@@ -1,7 +1,8 @@
 ## Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 Estudiante de Programación en UTN con experiencia en desarrollo de aplicaciones Full Stack usando React, TypeScript y .NET.
-He implementado CRUDs y sistemas de gestión, optimizando rendimiento y usabilidad. Busco mi primera oportunidad laboral para aportar soluciones técnicas y seguir creciendo profesionalmente.
+He implementado CRUDs y sistemas de gestión, optimizando rendimiento y usabilidad. 
+Busco mi primera oportunidad laboral para aportar soluciones técnicas y seguir creciendo profesionalmente.
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
