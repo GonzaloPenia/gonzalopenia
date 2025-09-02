@@ -1,6 +1,6 @@
 ## Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-Estudiante de Programación en UTN con experiencia en desarrollo de aplicaciones Full Stack usando React, TypeScript y .NET.
+Estudiante de Programación en UTN con experiencia en desarrollo de aplicaciones Full Stack usando React, TypeScript.
 He implementado CRUDs y sistemas de gestión, optimizando rendimiento y usabilidad. 
 Busco mi primera oportunidad laboral para aportar soluciones técnicas y seguir creciendo profesionalmente.
 
