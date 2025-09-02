@@ -1,5 +1,5 @@
 ## Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
-Mi nombre es Gonzalo Peña
+Mi nombre es Gonzalo Peña!
 Soy desarrollador fullstack y estudiante de UTN con sólidos conocimientos en JavaScript, TypeScript, React y Nest.<br/>
 Apasionado por la tecnología y crear soluciones web eficientes y escalables. Me enfoco en el aprendizaje constante a través del descubrimiento, lo que me motiva a enfrentar nuevos desafíos y crecer. Me destaco por establecer buenas relaciones laborales y mantener una actitud proactiva, siempre aportando lo mejor de mí tanto para alcanzar metas individuales como para contribuir al equipo y la comunicación dentro de él.
 
