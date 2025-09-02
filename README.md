@@ -1,8 +1,7 @@
 ## Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
-
-Estudiante de Programación en UTN con experiencia en desarrollo de aplicaciones Full Stack usando React, TypeScript.
-He implementado CRUDs y sistemas de gestión, optimizando rendimiento y usabilidad. 
-Busco mi primera oportunidad laboral para aportar soluciones técnicas y seguir creciendo profesionalmente.
+Mi nombre es Gonzalo Peña
+Soy desarrollador fullstack y estudiante de UTN con sólidos conocimientos en JavaScript, TypeScript, React y Nest.
+Apasionado por la tecnología y crear soluciones web eficientes y escalables. Me enfoco en el aprendizaje constante a través del descubrimiento, lo que me motiva a enfrentar nuevos desafíos y crecer. Me destaco por establecer buenas relaciones laborales y mantener una actitud proactiva, siempre aportando lo mejor de mí tanto para alcanzar metas individuales como para contribuir al equipo y la comunicación dentro de él.
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
